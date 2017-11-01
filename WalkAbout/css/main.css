@@ -1,0 +1,65 @@
+.bg-light{
+
+
+}
+
+
+
+
+
+.nav{
+
+	margin-top: 70px;
+}
+
+.line{
+
+	margin-left: 8%;
+}
+
+.navbar-brand{
+
+	border-right:1px solid;
+	color: black;
+	padding: 20px;
+	line-height: 0px;
+
+	}
+
+
+	.navbar-nav{
+
+margin-left: 20px;
+
+}
+
+	div a {
+    text-decoration: none;
+  
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background:none;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+
+.nav-item{
+
+	    padding-left: 2.2rem;
+}
